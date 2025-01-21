@@ -1,3 +1,7 @@
+# NOTICE
+
+HexSS has merged into ProgressionSS, This version will no longer be maintained, please visit https://serverside.progressionsoftworks.dev for the new version.
+
 # About 
 
 HexSS Is a Recently Publicized Roblox Server side that was designed in 2019 By HexHub Softworks (Formerly HaxorMan1929 inc at that time)
