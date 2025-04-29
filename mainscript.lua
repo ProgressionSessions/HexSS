@@ -109,7 +109,7 @@ local Success,Error = pcall(function()
 		{
 			Name = "Grab Knife V3",
 			Description = "The Real Grab Knife V3? [Requires R6]",
-			Code = "require(2829943043):Run('Xenarations','i baked you a pie')"
+			Code = "require(2829943043):Run('%username%','i baked you a pie')"
 		},
 		-- 11 New
 		{
