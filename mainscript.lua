@@ -13,9 +13,9 @@
  |                                              |
  | HexerMaster1929         Creator,Co-Scripter  |
  |                                              |
- | MrolivesGaming                     Scripter  |
+ | ProgressionSessions                Scripter  |
  |                                              |
- | MissSavannah                    UI Designer  |
+ | VannahReese                     UI Designer  |
  |                                              |
  ------------------------------------------------
 
