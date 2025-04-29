@@ -1,27 +1,30 @@
-# NOTICE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProgressionSessions/HexSS/refs/heads/stable/hexssbanner.png" alt="HexSS Banner">
+</p>
 
-HexSS has merged into ProgressionSS, This version will no longer be maintained, please visit https://serverside.progressionsoftworks.dev for the new version.
+<h1 align="center">HexSS</h1>
+<h3 align="center"><em>the smartest server sided code ide</em></h3>
 
-# About 
+---
 
-HexSS Is a Recently Publicized Roblox Server side that was designed in 2019 By HexHub Softworks (Formerly HaxorMan1929 inc at that time)
+<p align="center">
+  📜 <a href="#-script">Script</a>
+</p>
 
-We have grown a log way whilst being a full private executor but now we are public for all to see!
+---
 
-# ScriptLoader
+## 🧩 About
 
-```lua
-local owner = "HexerMaster1929"
-local branch = "stable"
-local Repo = "HexSS"
+**HexSS** was a powerful, server-sided script execution tool built for the Roblox platform. Designed as an IDE that allowed developers and exploiters to inject and run Lua code from the client that would execute on the server environment, HexSS aimed to bring intelligent features and modern workflows to Roblox exploitation and debugging.
 
-local function webImport(file)
-    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/%s/%s/%s.lua"):format(owner, Repo, branch, file)), file .. '.lua')()
-end
+> ⚠️ **Disclaimer**: HexSS has been **defunct since 2023** and no longer functions with modern Roblox security or networking changes. This repository remains available for educational or archival purposes only.
 
+---
 
-webImport("init")
-webImport("modules/moduleloader")
-webImport("ui/init")
+## 🚀 Getting Started
 
-```
+HexSS was never intended for public deployment or use outside controlled environments. However, for those reviewing the source:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ProgressionSessions/HexSS.git
